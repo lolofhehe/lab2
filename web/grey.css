@@ -1,0 +1,76 @@
+
+.result td {
+    width: 20%;
+    border: 5px solid black;
+}
+
+.header {
+    font: 16pt fantasy;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.centered {
+    text-align: center;
+    margin: auto auto;
+}
+
+.label {
+    font: 14pt sans-serif;
+}
+
+.his {
+    font: 14pt fantasy;
+}
+
+table {
+    width: 70%;
+    border: 10px solid grey;
+}
+
+table caption {
+    font-weight: bold
+}
+
+.button {
+    width: 20%;
+    background-color: transparent;
+    font: 12pt Impact, fantasy;
+    color: black
+}
+
+.button:hover {
+    background-color: #CEC;
+}
+
+#Ytextfield {
+    background-color: #6a6866;
+    width: 90%;
+    font: 12pt sans-serif;
+    color: black;
+    text-align: center;
+}
+
+#Rtextfield {
+    background-color: #6a6866;
+    width: 90%;
+    font: 12pt sans-serif;
+    text-align: center;
+    color: black;
+}
+
+.yo {
+    font: 12pt sans-serif;
+    font-style: italic;
+}
+
+#radius-selector {
+    width: 500px;
+    font: 14pt sans-serif;
+    color: black;
+}
+
+body {
+    background-color: #888685
+}
+
